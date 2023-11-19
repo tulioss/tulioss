@@ -23,7 +23,7 @@
 
 <div>
    <a href="www.linkedin.com/in/joao-tulio-b36926292" target="_blank" rel="Imagem Insta"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitealt="Imagem do Linkedin"></a>
-   <a href="instagram.com/donjoaos/" target="_blank" rel="Imagem Insta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+   <a href="https://instagram.com/donjoaos/" target="_blank" rel="Imagem Insta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
    alt="Imagem Insta"></a>
    <a href="https://www.tiktok.com/@donjoaos" target="_blank" rel="Imagem Tik tok"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" 
    alt="Imagem Tik tok"></a>
