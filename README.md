@@ -19,7 +19,17 @@
 
 <hr>
 
-<h3 align="left">Games🎮, quadrinhos🏹, musica🎧 e tecnologia🖥️ são algumas das minhas paixões S2</h3>
+## Experiências profissionais:
+<ul>
+  <li>1 ano no exército</li>
+  <li>Balconista em um park de diversões</li>
+  <li>Vendedor em uma livraria</li>
+</ul>
+
+<hr>
+
+<p></p>
+<h3 align="left">Games🎮, tecnologia🖥️, musica🎶 e adrenalina🧬 são minha paixão</h3>
 
 <div>
    <a href="https://www.linkedin.com/in/joao-tulio-b36926292" target="blank" rel="Imagem Insta"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitealt="Imagem do Linkedin"></a>
